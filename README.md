@@ -46,4 +46,5 @@ KEY FEATURES
 
 *OUTPUT*
 
+<img width="1650" height="648" alt="Image" src="https://github.com/user-attachments/assets/1b88b59c-000e-4442-8b4e-989da016978a" />
 
